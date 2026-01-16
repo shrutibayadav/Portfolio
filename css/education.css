@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Changa+One:ital@0;1&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Changa One", sans-serif;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FBE5E7;
+    color: #333;
+}
+
+
+.bar {
+  width: 100%;
+  background-color: #221c63; /* same dark blue */
+  padding: 22px 0;
+}
+
+.bar h2 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 0;
+  font-size: 50px;
+}
+
+
+
+
+.education-section {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 0 20px;
+    font-family: "Changa One", sans-serif;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 50px;
+    color: #2c3e50;
+}
+
+.education-card {
+    background: #ffffff;
+    padding: 30px;
+    border-left: 6px solid #DBD6F4;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.education-card h3 {
+    color:#221c63 ;
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-size: 40px;
+}
+
+.status {
+    display: inline-block;
+    margin-bottom: 15px;
+    color:#221c63;
+    font-weight: bold;
+}
+
+.education-summary {
+    line-height: 1.7;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.education-card h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #2c3e50;
+    font-size: 20px;
+}
+
+.cgpa-list {
+    margin-left: 20px;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.cgpa-list li {
+    margin-bottom: 6px;
+}
+
+.subjects {
+    line-height: 1.6;
+    color: #444;
+}
+
